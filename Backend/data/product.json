@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sandisk",
+    "price": "300.00",
+    "description": "just test dscription....no have long descuss",
+    "ratings": 4.5,
+    "images": [{
+        "public_id": "products/jhgjgfjgh",
+        "url": "https://www.reliancedigital.in/medias/Sandisk-PDCZ50-032GB-B35-Pen-Drive-490998917-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTEyMHxpbWFnZS9qcGVnfGltYWdlcy9oZjkvaDZjLzkyODE3OTUyMjc2NzguanBnfDJkMTkyNDM4YzdhNDgxYWEzZTk0ZWI4MGJkMzY5MGY2MzcwYWIwMjE3OWNiNWMyY2NkM2M2YjdjNWU4YmE4ZDM"
+    }],
+    "catagory": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews" : 321,
+    " reviews": []
+  },
+  {
+    "name": "Sandisk",
+    "price": "300.00",
+    "description": "just test dscription....no have long descuss",
+    "ratings": 4.5,
+    "images": [{
+        "public_id": "products/jhgjgfjgg",
+        "url": "https://www.reliancedigital.in/medias/Sandisk-PDCZ50-032GB-B35-Pen-Drive-490998917-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTEyMHxpbWFnZS9qcGVnfGltYWdlcy9oZjkvaDZjLzkyODE3OTUyMjc2NzguanBnfDJkMTkyNDM4YzdhNDgxYWEzZTk0ZWI4MGJkMzY5MGY2MzcwYWIwMjE3OWNiNWMyY2NkM2M2YjdjNWU4YmE4ZDM"
+    }],
+    "catagory": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews" : 321,
+    " reviews": []
+  }
+]
